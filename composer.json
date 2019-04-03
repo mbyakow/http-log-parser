@@ -1,0 +1,19 @@
+{
+    "name": "maxim/http-log-parser",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Byakow",
+            "email": "mbyakow@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mbyakow\\": "src/"
+        }
+    }
+}
